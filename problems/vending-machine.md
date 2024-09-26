@@ -22,3 +22,5 @@
 6. The **VendingMachine** class is the main class that represents the vending machine. It follows the Singleton pattern to ensure only one instance of the vending machine exists.
 7. The VendingMachine class maintains the current state, selected product, total payment, and provides methods for state transitions and payment handling.
 8. The **VendingMachineDemo** class demonstrates the usage of the vending machine by adding products to the inventory, selecting products, inserting coins and notes, dispensing products, and returning change.
+
+9. ![image](https://github.com/user-attachments/assets/ed9dc3cf-1a70-42ab-b30c-c3191f6efc65)
